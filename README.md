@@ -1,1 +1,1 @@
-# Loop
+# Loop (mini project)
